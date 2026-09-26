@@ -1,0 +1,414 @@
+table,cohort_type,cohort,sites,platform,platform_sites,platform_share_pct
+platform_share,all,All live US franchise dealer sites,16948,Dealer.com,5658,33.4
+platform_share,all,All live US franchise dealer sites,16948,DealerOn,3865,22.8
+platform_share,all,All live US franchise dealer sites,16948,Dealer Inspire,3572,21.1
+platform_share,all,All live US franchise dealer sites,16948,Other or unidentified,1174,6.9
+platform_share,all,All live US franchise dealer sites,16948,Team Velocity,1151,6.8
+platform_share,all,All live US franchise dealer sites,16948,Dealer eProcess,611,3.6
+platform_share,all,All live US franchise dealer sites,16948,Sincro,485,2.9
+platform_share,all,All live US franchise dealer sites,16948,Dealer Venom,123,0.7
+platform_share,all,All live US franchise dealer sites,16948,Jazel,121,0.7
+platform_share,all,All live US franchise dealer sites,16948,WordPress (self-hosted),91,0.5
+platform_share,all,All live US franchise dealer sites,16948,Overfuel,45,0.3
+platform_share,all,All live US franchise dealer sites,16948,DealerFire,14,0.1
+platform_share,all,All live US franchise dealer sites,16948,Wix,8,0.0
+platform_share,all,All live US franchise dealer sites,16948,Squarespace,6,0.0
+platform_share,all,All live US franchise dealer sites,16948,Tekion,6,0.0
+platform_share,all,All live US franchise dealer sites,16948,DealerSync,4,0.0
+platform_share,all,All live US franchise dealer sites,16948,WordPress (WP Engine),4,0.0
+platform_share,all,All live US franchise dealer sites,16948,D2C Media,3,0.0
+platform_share,all,All live US franchise dealer sites,16948,DealerCenter,2,0.0
+platform_share,all,All live US franchise dealer sites,16948,Webflow,2,0.0
+platform_share,all,All live US franchise dealer sites,16948,AutoRevo,1,0.0
+platform_share,all,All live US franchise dealer sites,16948,eBizAutos,1,0.0
+platform_share,all,All live US franchise dealer sites,16948,DealerSpike,1,0.0
+platform_by_brand,brand,Chevrolet,2793,DealerOn,957,34.3
+platform_by_brand,brand,Chevrolet,2793,Dealer.com,791,28.3
+platform_by_brand,brand,Chevrolet,2793,Dealer Inspire,651,23.3
+platform_by_brand,brand,Chevrolet,2793,Sincro,309,11.1
+platform_by_brand,brand,Chevrolet,2793,Other or unidentified,76,2.7
+platform_by_brand,brand,Chevrolet,2793,Overfuel,4,0.1
+platform_by_brand,brand,Ford,2755,Dealer.com,1129,41.0
+platform_by_brand,brand,Ford,2755,DealerOn,756,27.4
+platform_by_brand,brand,Ford,2755,Dealer Inspire,506,18.4
+platform_by_brand,brand,Ford,2755,Other or unidentified,139,5.0
+platform_by_brand,brand,Ford,2755,Jazel,117,4.2
+platform_by_brand,brand,Ford,2755,Team Velocity,107,3.9
+platform_by_brand,brand,Jeep,2703,Dealer.com,1055,39.0
+platform_by_brand,brand,Jeep,2703,Dealer Inspire,527,19.5
+platform_by_brand,brand,Jeep,2703,DealerOn,507,18.8
+platform_by_brand,brand,Jeep,2703,Other or unidentified,247,9.1
+platform_by_brand,brand,Jeep,2703,Team Velocity,194,7.2
+platform_by_brand,brand,Jeep,2703,Dealer eProcess,130,4.8
+platform_by_brand,brand,Dodge,2678,Dealer.com,1051,39.2
+platform_by_brand,brand,Dodge,2678,Dealer Inspire,526,19.6
+platform_by_brand,brand,Dodge,2678,DealerOn,505,18.9
+platform_by_brand,brand,Dodge,2678,Other or unidentified,228,8.5
+platform_by_brand,brand,Dodge,2678,Team Velocity,195,7.3
+platform_by_brand,brand,Dodge,2678,Dealer eProcess,131,4.9
+platform_by_brand,brand,Chrysler,2673,Dealer.com,1050,39.3
+platform_by_brand,brand,Chrysler,2673,Dealer Inspire,522,19.5
+platform_by_brand,brand,Chrysler,2673,DealerOn,504,18.9
+platform_by_brand,brand,Chrysler,2673,Other or unidentified,229,8.6
+platform_by_brand,brand,Chrysler,2673,Team Velocity,195,7.3
+platform_by_brand,brand,Chrysler,2673,Dealer eProcess,130,4.9
+platform_by_brand,brand,Ram,2648,Dealer.com,1040,39.3
+platform_by_brand,brand,Ram,2648,Dealer Inspire,525,19.8
+platform_by_brand,brand,Ram,2648,DealerOn,502,19.0
+platform_by_brand,brand,Ram,2648,Other or unidentified,218,8.2
+platform_by_brand,brand,Ram,2648,Team Velocity,193,7.3
+platform_by_brand,brand,Ram,2648,Dealer eProcess,131,4.9
+platform_by_brand,brand,Honda,1061,Dealer.com,294,27.7
+platform_by_brand,brand,Honda,1061,Dealer Inspire,233,22.0
+platform_by_brand,brand,Honda,1061,Team Velocity,183,17.2
+platform_by_brand,brand,Honda,1061,DealerOn,141,13.3
+platform_by_brand,brand,Honda,1061,Other or unidentified,85,8.0
+platform_by_brand,brand,Honda,1061,Dealer eProcess,78,7.4
+platform_by_brand,brand,GMC,1037,DealerOn,318,30.7
+platform_by_brand,brand,GMC,1037,Dealer.com,262,25.3
+platform_by_brand,brand,GMC,1037,Dealer Inspire,224,21.6
+platform_by_brand,brand,GMC,1037,Other or unidentified,98,9.5
+platform_by_brand,brand,GMC,1037,Sincro,86,8.3
+platform_by_brand,brand,GMC,1037,WordPress (self-hosted),15,1.4
+platform_by_brand,brand,Buick,965,DealerOn,300,31.1
+platform_by_brand,brand,Buick,965,Dealer.com,252,26.1
+platform_by_brand,brand,Buick,965,Dealer Inspire,214,22.2
+platform_by_brand,brand,Buick,965,Other or unidentified,83,8.6
+platform_by_brand,brand,Buick,965,Sincro,81,8.4
+platform_by_brand,brand,Buick,965,WordPress (self-hosted),14,1.5
+platform_by_brand,brand,Hyundai,857,Dealer.com,307,35.8
+platform_by_brand,brand,Hyundai,857,Dealer Inspire,212,24.7
+platform_by_brand,brand,Hyundai,857,DealerOn,153,17.9
+platform_by_brand,brand,Hyundai,857,Team Velocity,97,11.3
+platform_by_brand,brand,Hyundai,857,Dealer eProcess,70,8.2
+platform_by_brand,brand,Hyundai,857,Other or unidentified,15,1.8
+platform_by_brand,brand,Nissan,855,Dealer.com,217,25.4
+platform_by_brand,brand,Nissan,855,Dealer Inspire,175,20.5
+platform_by_brand,brand,Nissan,855,DealerOn,170,19.9
+platform_by_brand,brand,Nissan,855,Other or unidentified,115,13.5
+platform_by_brand,brand,Nissan,855,Team Velocity,91,10.6
+platform_by_brand,brand,Nissan,855,Dealer eProcess,51,6.0
+platform_by_brand,brand,Toyota,830,Dealer.com,220,26.5
+platform_by_brand,brand,Toyota,830,Dealer Inspire,204,24.6
+platform_by_brand,brand,Toyota,830,DealerOn,167,20.1
+platform_by_brand,brand,Toyota,830,Dealer eProcess,70,8.4
+platform_by_brand,brand,Toyota,830,Team Velocity,70,8.4
+platform_by_brand,brand,Toyota,830,Dealer Venom,67,8.1
+platform_by_brand,brand,Kia,764,Dealer.com,188,24.6
+platform_by_brand,brand,Kia,764,Dealer Inspire,156,20.4
+platform_by_brand,brand,Kia,764,DealerOn,152,19.9
+platform_by_brand,brand,Kia,764,Team Velocity,102,13.4
+platform_by_brand,brand,Kia,764,Other or unidentified,80,10.5
+platform_by_brand,brand,Kia,764,Dealer eProcess,60,7.9
+platform_by_brand,brand,Subaru,629,Dealer.com,324,51.5
+platform_by_brand,brand,Subaru,629,Dealer Inspire,114,18.1
+platform_by_brand,brand,Subaru,629,DealerOn,74,11.8
+platform_by_brand,brand,Subaru,629,Team Velocity,69,11.0
+platform_by_brand,brand,Subaru,629,Dealer eProcess,34,5.4
+platform_by_brand,brand,Subaru,629,Other or unidentified,14,2.2
+platform_by_brand,brand,Cadillac,561,DealerOn,171,30.5
+platform_by_brand,brand,Cadillac,561,Dealer.com,158,28.2
+platform_by_brand,brand,Cadillac,561,Dealer Inspire,153,27.3
+platform_by_brand,brand,Cadillac,561,Sincro,71,12.7
+platform_by_brand,brand,Cadillac,561,Other or unidentified,8,1.4
+platform_by_brand,brand,Mazda,529,Dealer Inspire,151,28.5
+platform_by_brand,brand,Mazda,529,Dealer.com,120,22.7
+platform_by_brand,brand,Mazda,529,DealerOn,93,17.6
+platform_by_brand,brand,Mazda,529,Team Velocity,92,17.4
+platform_by_brand,brand,Mazda,529,Dealer eProcess,38,7.2
+platform_by_brand,brand,Mazda,529,Other or unidentified,28,5.3
+platform_by_brand,brand,Lincoln,367,Dealer.com,211,57.5
+platform_by_brand,brand,Lincoln,367,DealerOn,111,30.2
+platform_by_brand,brand,Lincoln,367,Team Velocity,23,6.3
+platform_by_brand,brand,Lincoln,367,Other or unidentified,22,6.0
+platform_by_brand,brand,Genesis,276,Dealer.com,89,32.2
+platform_by_brand,brand,Genesis,276,Dealer Inspire,55,19.9
+platform_by_brand,brand,Genesis,276,DealerOn,46,16.7
+platform_by_brand,brand,Genesis,276,Other or unidentified,37,13.4
+platform_by_brand,brand,Genesis,276,Team Velocity,28,10.1
+platform_by_brand,brand,Genesis,276,Dealer eProcess,13,4.7
+platform_by_brand,brand,Acura,267,Dealer.com,84,31.5
+platform_by_brand,brand,Acura,267,Dealer Inspire,54,20.2
+platform_by_brand,brand,Acura,267,Team Velocity,41,15.4
+platform_by_brand,brand,Acura,267,Other or unidentified,24,9.0
+platform_by_brand,brand,Acura,267,DealerOn,24,9.0
+platform_by_brand,brand,Acura,267,Dealer eProcess,23,8.6
+platform_by_brand,brand,Volkswagen,261,Dealer.com,72,27.6
+platform_by_brand,brand,Volkswagen,261,Other or unidentified,48,18.4
+platform_by_brand,brand,Volkswagen,261,Dealer Inspire,48,18.4
+platform_by_brand,brand,Volkswagen,261,DealerOn,33,12.6
+platform_by_brand,brand,Volkswagen,261,Team Velocity,27,10.3
+platform_by_brand,brand,Volkswagen,261,Dealer eProcess,16,6.1
+platform_by_brand,brand,Mercedes-Benz,210,Dealer Inspire,60,28.6
+platform_by_brand,brand,Mercedes-Benz,210,Dealer.com,59,28.1
+platform_by_brand,brand,Mercedes-Benz,210,Other or unidentified,42,20.0
+platform_by_brand,brand,Mercedes-Benz,210,DealerOn,18,8.6
+platform_by_brand,brand,Mercedes-Benz,210,Team Velocity,10,4.8
+platform_by_brand,brand,Mercedes-Benz,210,Dealer eProcess,7,3.3
+platform_by_brand,brand,BMW,196,Dealer.com,65,33.2
+platform_by_brand,brand,BMW,196,Dealer Inspire,47,24.0
+platform_by_brand,brand,BMW,196,Other or unidentified,32,16.3
+platform_by_brand,brand,BMW,196,DealerOn,21,10.7
+platform_by_brand,brand,BMW,196,Team Velocity,12,6.1
+platform_by_brand,brand,BMW,196,Dealer eProcess,7,3.6
+platform_by_brand,brand,Audi,167,Other or unidentified,61,36.5
+platform_by_brand,brand,Audi,167,Dealer.com,45,26.9
+platform_by_brand,brand,Audi,167,Dealer Inspire,28,16.8
+platform_by_brand,brand,Audi,167,DealerOn,10,6.0
+platform_by_brand,brand,Audi,167,Team Velocity,8,4.8
+platform_by_brand,brand,Audi,167,WordPress (self-hosted),7,4.2
+platform_by_state,state,Texas,1199,Dealer.com,388,32.4
+platform_by_state,state,Texas,1199,DealerOn,279,23.3
+platform_by_state,state,Texas,1199,Dealer Inspire,225,18.8
+platform_by_state,state,Texas,1199,Other or unidentified,81,6.8
+platform_by_state,state,Texas,1199,Team Velocity,68,5.7
+platform_by_state,state,Texas,1199,Dealer eProcess,64,5.3
+platform_by_state,state,California,1063,Dealer Inspire,286,26.9
+platform_by_state,state,California,1063,Dealer.com,275,25.9
+platform_by_state,state,California,1063,DealerOn,146,13.7
+platform_by_state,state,California,1063,Team Velocity,124,11.7
+platform_by_state,state,California,1063,Other or unidentified,114,10.7
+platform_by_state,state,California,1063,Sincro,47,4.4
+platform_by_state,state,Florida,907,Dealer Inspire,273,30.1
+platform_by_state,state,Florida,907,Dealer.com,261,28.8
+platform_by_state,state,Florida,907,DealerOn,190,20.9
+platform_by_state,state,Florida,907,Team Velocity,60,6.6
+platform_by_state,state,Florida,907,Other or unidentified,52,5.7
+platform_by_state,state,Florida,907,Dealer eProcess,25,2.8
+platform_by_state,state,Pennsylvania,889,Dealer.com,364,40.9
+platform_by_state,state,Pennsylvania,889,DealerOn,207,23.3
+platform_by_state,state,Pennsylvania,889,Dealer Inspire,133,15.0
+platform_by_state,state,Pennsylvania,889,Team Velocity,69,7.8
+platform_by_state,state,Pennsylvania,889,Other or unidentified,41,4.6
+platform_by_state,state,Pennsylvania,889,Sincro,30,3.4
+platform_by_state,state,New York,877,Dealer.com,333,38.0
+platform_by_state,state,New York,877,DealerOn,176,20.1
+platform_by_state,state,New York,877,Dealer Inspire,170,19.4
+platform_by_state,state,New York,877,Other or unidentified,63,7.2
+platform_by_state,state,New York,877,Team Velocity,52,5.9
+platform_by_state,state,New York,877,Dealer eProcess,32,3.6
+platform_by_state,state,Illinois,787,Dealer.com,282,35.8
+platform_by_state,state,Illinois,787,Dealer Inspire,177,22.5
+platform_by_state,state,Illinois,787,DealerOn,127,16.1
+platform_by_state,state,Illinois,787,Team Velocity,68,8.6
+platform_by_state,state,Illinois,787,Other or unidentified,55,7.0
+platform_by_state,state,Illinois,787,Dealer eProcess,51,6.5
+platform_by_state,state,Ohio,782,Dealer.com,250,32.0
+platform_by_state,state,Ohio,782,DealerOn,189,24.2
+platform_by_state,state,Ohio,782,Dealer Inspire,161,20.6
+platform_by_state,state,Ohio,782,Other or unidentified,74,9.5
+platform_by_state,state,Ohio,782,Team Velocity,48,6.1
+platform_by_state,state,Ohio,782,Dealer eProcess,20,2.6
+platform_by_state,state,Michigan,664,Dealer.com,277,41.7
+platform_by_state,state,Michigan,664,DealerOn,192,28.9
+platform_by_state,state,Michigan,664,Dealer Inspire,81,12.2
+platform_by_state,state,Michigan,664,Team Velocity,40,6.0
+platform_by_state,state,Michigan,664,Other or unidentified,32,4.8
+platform_by_state,state,Michigan,664,Sincro,27,4.1
+platform_by_state,state,North Carolina,573,Dealer.com,178,31.1
+platform_by_state,state,North Carolina,573,DealerOn,152,26.5
+platform_by_state,state,North Carolina,573,Dealer Inspire,136,23.7
+platform_by_state,state,North Carolina,573,Other or unidentified,42,7.3
+platform_by_state,state,North Carolina,573,Team Velocity,34,5.9
+platform_by_state,state,North Carolina,573,Dealer eProcess,10,1.7
+platform_by_state,state,Georgia,524,Dealer.com,170,32.4
+platform_by_state,state,Georgia,524,Dealer Inspire,151,28.8
+platform_by_state,state,Georgia,524,DealerOn,78,14.9
+platform_by_state,state,Georgia,524,Other or unidentified,43,8.2
+platform_by_state,state,Georgia,524,Team Velocity,24,4.6
+platform_by_state,state,Georgia,524,Dealer eProcess,19,3.6
+platform_by_state,state,Wisconsin,520,DealerOn,172,33.1
+platform_by_state,state,Wisconsin,520,Dealer.com,142,27.3
+platform_by_state,state,Wisconsin,520,Dealer Inspire,94,18.1
+platform_by_state,state,Wisconsin,520,Team Velocity,44,8.5
+platform_by_state,state,Wisconsin,520,Other or unidentified,43,8.3
+platform_by_state,state,Wisconsin,520,Dealer eProcess,11,2.1
+platform_by_state,state,Virginia,448,Dealer.com,149,33.3
+platform_by_state,state,Virginia,448,Dealer Inspire,89,19.9
+platform_by_state,state,Virginia,448,DealerOn,89,19.9
+platform_by_state,state,Virginia,448,Dealer eProcess,40,8.9
+platform_by_state,state,Virginia,448,Team Velocity,35,7.8
+platform_by_state,state,Virginia,448,Other or unidentified,28,6.2
+platform_by_state,state,New Jersey,440,Dealer.com,176,40.0
+platform_by_state,state,New Jersey,440,DealerOn,100,22.7
+platform_by_state,state,New Jersey,440,Dealer Inspire,62,14.1
+platform_by_state,state,New Jersey,440,Other or unidentified,31,7.0
+platform_by_state,state,New Jersey,440,Dealer eProcess,28,6.4
+platform_by_state,state,New Jersey,440,Team Velocity,26,5.9
+platform_by_state,state,Indiana,436,Dealer.com,163,37.4
+platform_by_state,state,Indiana,436,DealerOn,101,23.2
+platform_by_state,state,Indiana,436,Dealer Inspire,89,20.4
+platform_by_state,state,Indiana,436,Team Velocity,37,8.5
+platform_by_state,state,Indiana,436,Other or unidentified,20,4.6
+platform_by_state,state,Indiana,436,Dealer eProcess,14,3.2
+platform_by_state,state,Minnesota,381,Dealer Inspire,101,26.5
+platform_by_state,state,Minnesota,381,DealerOn,94,24.7
+platform_by_state,state,Minnesota,381,Dealer.com,86,22.6
+platform_by_state,state,Minnesota,381,Other or unidentified,41,10.8
+platform_by_state,state,Minnesota,381,Team Velocity,33,8.7
+platform_by_state,state,Minnesota,381,Sincro,15,3.9
+platform_by_state,state,Missouri,372,DealerOn,113,30.4
+platform_by_state,state,Missouri,372,Dealer.com,105,28.2
+platform_by_state,state,Missouri,372,Dealer Inspire,83,22.3
+platform_by_state,state,Missouri,372,Team Velocity,20,5.4
+platform_by_state,state,Missouri,372,Sincro,16,4.3
+platform_by_state,state,Missouri,372,Other or unidentified,14,3.8
+platform_by_state,state,Tennessee,369,Dealer.com,113,30.6
+platform_by_state,state,Tennessee,369,DealerOn,93,25.2
+platform_by_state,state,Tennessee,369,Dealer Inspire,71,19.2
+platform_by_state,state,Tennessee,369,Other or unidentified,24,6.5
+platform_by_state,state,Tennessee,369,Team Velocity,24,6.5
+platform_by_state,state,Tennessee,369,Dealer eProcess,21,5.7
+platform_by_state,state,Massachusetts,348,Dealer.com,153,44.0
+platform_by_state,state,Massachusetts,348,Dealer Inspire,79,22.7
+platform_by_state,state,Massachusetts,348,DealerOn,38,10.9
+platform_by_state,state,Massachusetts,348,Team Velocity,26,7.5
+platform_by_state,state,Massachusetts,348,Other or unidentified,23,6.6
+platform_by_state,state,Massachusetts,348,Sincro,11,3.2
+platform_by_state,state,Iowa,318,DealerOn,105,33.0
+platform_by_state,state,Iowa,318,Dealer.com,100,31.4
+platform_by_state,state,Iowa,318,Dealer Inspire,58,18.2
+platform_by_state,state,Iowa,318,Other or unidentified,19,6.0
+platform_by_state,state,Iowa,318,Dealer eProcess,16,5.0
+platform_by_state,state,Iowa,318,Team Velocity,11,3.5
+platform_by_state,state,Maryland,298,Dealer.com,99,33.2
+platform_by_state,state,Maryland,298,DealerOn,99,33.2
+platform_by_state,state,Maryland,298,Dealer eProcess,30,10.1
+platform_by_state,state,Maryland,298,Team Velocity,21,7.0
+platform_by_state,state,Maryland,298,Other or unidentified,21,7.0
+platform_by_state,state,Maryland,298,Dealer Inspire,14,4.7
+platform_by_state,state,Alabama,281,Dealer.com,95,33.8
+platform_by_state,state,Alabama,281,Dealer Inspire,83,29.5
+platform_by_state,state,Alabama,281,DealerOn,55,19.6
+platform_by_state,state,Alabama,281,Other or unidentified,18,6.4
+platform_by_state,state,Alabama,281,Sincro,17,6.0
+platform_by_state,state,Alabama,281,Dealer eProcess,6,2.1
+platform_by_state,state,Washington,278,Dealer.com,76,27.3
+platform_by_state,state,Washington,278,Dealer Inspire,66,23.7
+platform_by_state,state,Washington,278,DealerOn,49,17.6
+platform_by_state,state,Washington,278,Dealer eProcess,34,12.2
+platform_by_state,state,Washington,278,Other or unidentified,19,6.8
+platform_by_state,state,Washington,278,Team Velocity,16,5.8
+platform_by_state,state,South Carolina,272,Dealer.com,87,32.0
+platform_by_state,state,South Carolina,272,DealerOn,77,28.3
+platform_by_state,state,South Carolina,272,Dealer Inspire,66,24.3
+platform_by_state,state,South Carolina,272,Other or unidentified,20,7.4
+platform_by_state,state,South Carolina,272,Team Velocity,15,5.5
+platform_by_state,state,South Carolina,272,Dealer Venom,4,1.5
+platform_by_state,state,Kentucky,270,Dealer.com,78,28.9
+platform_by_state,state,Kentucky,270,Dealer Inspire,78,28.9
+platform_by_state,state,Kentucky,270,DealerOn,67,24.8
+platform_by_state,state,Kentucky,270,Other or unidentified,16,5.9
+platform_by_state,state,Kentucky,270,Team Velocity,15,5.6
+platform_by_state,state,Kentucky,270,Dealer eProcess,7,2.6
+platform_by_state,state,Louisiana,260,Dealer.com,77,29.6
+platform_by_state,state,Louisiana,260,DealerOn,71,27.3
+platform_by_state,state,Louisiana,260,Dealer Inspire,62,23.8
+platform_by_state,state,Louisiana,260,Team Velocity,18,6.9
+platform_by_state,state,Louisiana,260,Sincro,11,4.2
+platform_by_state,state,Louisiana,260,Other or unidentified,7,2.7
+platform_by_state,state,Oklahoma,253,DealerOn,81,32.0
+platform_by_state,state,Oklahoma,253,Dealer.com,65,25.7
+platform_by_state,state,Oklahoma,253,Dealer Inspire,53,20.9
+platform_by_state,state,Oklahoma,253,Other or unidentified,24,9.5
+platform_by_state,state,Oklahoma,253,Team Velocity,18,7.1
+platform_by_state,state,Oklahoma,253,Sincro,4,1.6
+platform_by_state,state,Colorado,242,Dealer.com,91,37.6
+platform_by_state,state,Colorado,242,Dealer Inspire,54,22.3
+platform_by_state,state,Colorado,242,DealerOn,33,13.6
+platform_by_state,state,Colorado,242,Other or unidentified,30,12.4
+platform_by_state,state,Colorado,242,Team Velocity,19,7.9
+platform_by_state,state,Colorado,242,Sincro,4,1.7
+platform_by_state,state,Connecticut,239,Dealer.com,105,43.9
+platform_by_state,state,Connecticut,239,Dealer Inspire,45,18.8
+platform_by_state,state,Connecticut,239,DealerOn,33,13.8
+platform_by_state,state,Connecticut,239,Team Velocity,26,10.9
+platform_by_state,state,Connecticut,239,Other or unidentified,12,5.0
+platform_by_state,state,Connecticut,239,Sincro,8,3.3
+platform_by_state,state,Arkansas,217,DealerOn,90,41.5
+platform_by_state,state,Arkansas,217,Dealer.com,76,35.0
+platform_by_state,state,Arkansas,217,Dealer Inspire,31,14.3
+platform_by_state,state,Arkansas,217,Sincro,7,3.2
+platform_by_state,state,Arkansas,217,Other or unidentified,5,2.3
+platform_by_state,state,Arkansas,217,Dealer eProcess,5,2.3
+platform_by_state,state,Arizona,214,Dealer.com,62,29.0
+platform_by_state,state,Arizona,214,DealerOn,60,28.0
+platform_by_state,state,Arizona,214,Dealer Inspire,32,15.0
+platform_by_state,state,Arizona,214,Team Velocity,20,9.3
+platform_by_state,state,Arizona,214,Other or unidentified,15,7.0
+platform_by_state,state,Arizona,214,Dealer eProcess,12,5.6
+platform_by_state,state,Mississippi,203,Dealer.com,77,37.9
+platform_by_state,state,Mississippi,203,DealerOn,46,22.7
+platform_by_state,state,Mississippi,203,Dealer Inspire,28,13.8
+platform_by_state,state,Mississippi,203,Other or unidentified,14,6.9
+platform_by_state,state,Mississippi,203,Team Velocity,12,5.9
+platform_by_state,state,Mississippi,203,Dealer eProcess,11,5.4
+platform_by_state,state,Kansas,197,DealerOn,68,34.5
+platform_by_state,state,Kansas,197,Dealer Inspire,45,22.8
+platform_by_state,state,Kansas,197,Dealer.com,44,22.3
+platform_by_state,state,Kansas,197,Other or unidentified,19,9.6
+platform_by_state,state,Kansas,197,Sincro,7,3.6
+platform_by_state,state,Kansas,197,Team Velocity,5,2.5
+platform_by_state,state,Oregon,183,Dealer Inspire,55,30.1
+platform_by_state,state,Oregon,183,Dealer.com,52,28.4
+platform_by_state,state,Oregon,183,DealerOn,35,19.1
+platform_by_state,state,Oregon,183,Team Velocity,15,8.2
+platform_by_state,state,Oregon,183,Other or unidentified,12,6.6
+platform_by_state,state,Oregon,183,Dealer eProcess,7,3.8
+platform_by_state,state,Nebraska,177,Dealer.com,53,29.9
+platform_by_state,state,Nebraska,177,Dealer Inspire,49,27.7
+platform_by_state,state,Nebraska,177,DealerOn,39,22.0
+platform_by_state,state,Nebraska,177,Other or unidentified,14,7.9
+platform_by_state,state,Nebraska,177,Sincro,8,4.5
+platform_by_state,state,Nebraska,177,Team Velocity,4,2.3
+platform_by_state,state,West Virginia,147,DealerOn,57,38.8
+platform_by_state,state,West Virginia,147,Dealer.com,31,21.1
+platform_by_state,state,West Virginia,147,Dealer Inspire,24,16.3
+platform_by_state,state,West Virginia,147,Other or unidentified,11,7.5
+platform_by_state,state,West Virginia,147,Dealer eProcess,11,7.5
+platform_by_state,state,West Virginia,147,Team Velocity,8,5.4
+platform_by_state,state,New Hampshire,139,Dealer.com,61,43.9
+platform_by_state,state,New Hampshire,139,Dealer Inspire,33,23.7
+platform_by_state,state,New Hampshire,139,DealerOn,16,11.5
+platform_by_state,state,New Hampshire,139,Team Velocity,11,7.9
+platform_by_state,state,New Hampshire,139,Other or unidentified,10,7.2
+platform_by_state,state,New Hampshire,139,Dealer eProcess,2,1.4
+platform_by_state,state,Utah,134,Dealer.com,50,37.3
+platform_by_state,state,Utah,134,Dealer Inspire,35,26.1
+platform_by_state,state,Utah,134,DealerOn,19,14.2
+platform_by_state,state,Utah,134,Other or unidentified,12,9.0
+platform_by_state,state,Utah,134,Team Velocity,12,9.0
+platform_by_state,state,Utah,134,Dealer eProcess,3,2.2
+platform_by_state,state,Maine,127,Dealer.com,58,45.7
+platform_by_state,state,Maine,127,Dealer Inspire,24,18.9
+platform_by_state,state,Maine,127,DealerOn,14,11.0
+platform_by_state,state,Maine,127,Other or unidentified,12,9.4
+platform_by_state,state,Maine,127,Team Velocity,11,8.7
+platform_by_state,state,Maine,127,Sincro,3,2.4
+platform_by_state,state,Idaho,118,Dealer.com,37,31.4
+platform_by_state,state,Idaho,118,Dealer Inspire,34,28.8
+platform_by_state,state,Idaho,118,DealerOn,21,17.8
+platform_by_state,state,Idaho,118,Team Velocity,9,7.6
+platform_by_state,state,Idaho,118,Dealer eProcess,8,6.8
+platform_by_state,state,Idaho,118,Sincro,6,5.1
+platform_by_state,state,Montana,106,Dealer.com,45,42.5
+platform_by_state,state,Montana,106,DealerOn,23,21.7
+platform_by_state,state,Montana,106,Dealer Inspire,19,17.9
+platform_by_state,state,Montana,106,Sincro,6,5.7
+platform_by_state,state,Montana,106,Team Velocity,6,5.7
+platform_by_state,state,Montana,106,Other or unidentified,2,1.9
+
+table,cohort_type,cohort,rendered_sites,any_tracking,any_chat,any_digital_retail,any_consent,any_accessibility,any_reviews,any_service,any_crm,any_credit,any_video,Google Tag Manager,Google Tag Manager (referenced),GA4/gtag,GA4/gtag (referenced),Meta pixel,Meta pixel (referenced),TikTok pixel,TikTok pixel (referenced),Microsoft Clarity,Microsoft Clarity (referenced),Hotjar,Hotjar (referenced),Bing UET,Bing UET (referenced),Google Ads remarketing,Google Ads remarketing (referenced),LinkedIn insight,LinkedIn insight (referenced),Pinterest,Pinterest (referenced),Snapchat,Snapchat (referenced),Amazon ads,Amazon ads (referenced),Criteo,Criteo (referenced),Adobe Analytics,Adobe Analytics (referenced),Shift Digital,Shift Digital (referenced),Clarivoy,Clarivoy (referenced),Foureyes,Foureyes (referenced),Cars.com/Dealer Inspire analytics,Cars.com/Dealer Inspire analytics (referenced),Fullpath tracking,Fullpath tracking (referenced),Simpli.fi,Simpli.fi (referenced),The Trade Desk,The Trade Desk (referenced),LotLinx,LotLinx (referenced),Marchex,Marchex (referenced),CallRail,CallRail (referenced),Gubagoo,Gubagoo (referenced),CarNow,CarNow (referenced),ActivEngage,ActivEngage (referenced),Fullpath,Fullpath (referenced),Impel,Impel (referenced),Podium,Podium (referenced),PureCars,PureCars (referenced),Matador,Matador (referenced),LivePerson,LivePerson (referenced),Conversica,Conversica (referenced),Kenect,Kenect (referenced),Numa,Numa (referenced),Drift,Drift (referenced),Intercom,Intercom (referenced),Tidio,Tidio (referenced),Tawk,Tawk (referenced),Contact At Once,Contact At Once (referenced),Birdeye,Birdeye (referenced),Letzchat,Letzchat (referenced),AutoGo,AutoGo (referenced),Roadster,Roadster (referenced),Modal,Modal (referenced),Darwin,Darwin (referenced),AutoFi,AutoFi (referenced),Upstart Auto Retail,Upstart Auto Retail (referenced),CarSaver,CarSaver (referenced),Cox Accelerate,Cox Accelerate (referenced),Digital Motors,Digital Motors (referenced),Drive Motors,Drive Motors (referenced),A2Z Sync,A2Z Sync (referenced),KBB widget,KBB widget (referenced),TradePending,TradePending (referenced),Accu-Trade,Accu-Trade (referenced),Carfax,Carfax (referenced),AutoCheck,AutoCheck (referenced),Edmunds widget,Edmunds widget (referenced),Black Book,Black Book (referenced),Capital One prequal,Capital One prequal (referenced),Motive Retail,Motive Retail (referenced),ComplyAuto,ComplyAuto (referenced),Termly,Termly (referenced),OneTrust,OneTrust (referenced),Cookiebot,Cookiebot (referenced),CookieYes,CookieYes (referenced),Osano,Osano (referenced),Ketch,Ketch (referenced),TrustArc,TrustArc (referenced),Truyo,Truyo (referenced),iubenda,iubenda (referenced),Usercentrics,Usercentrics (referenced),AudioEye,AudioEye (referenced),accessiBe,accessiBe (referenced),UserWay,UserWay (referenced),EqualWeb,EqualWeb (referenced),AccessiWay,AccessiWay (referenced),Level Access,Level Access (referenced),Adally,Adally (referenced),DealerRater,DealerRater (referenced),Reputation.com,Reputation.com (referenced),Widewail,Widewail (referenced),Trustpilot,Trustpilot (referenced),Yelp,Yelp (referenced),Xtime,Xtime (referenced),myKaarma,myKaarma (referenced),AutoLoop,AutoLoop (referenced),Dealer-FX,Dealer-FX (referenced),TimeHighway,TimeHighway (referenced),Affinitiv,Affinitiv (referenced),UpdatePromise,UpdatePromise (referenced),VinSolutions,VinSolutions (referenced),eLead,eLead (referenced),DealerSocket,DealerSocket (referenced),DriveCentric,DriveCentric (referenced),HubSpot,HubSpot (referenced),Salesforce,Salesforce (referenced),700Credit,700Credit (referenced),RouteOne,RouteOne (referenced),Dealertrack,Dealertrack (referenced),CUDL,CUDL (referenced),Capital One,Capital One (referenced),YouTube,YouTube (referenced),Vimeo,Vimeo (referenced),Wistia,Wistia (referenced),Flick Fusion,Flick Fusion (referenced),Covideo,Covideo (referenced),HomeNet,HomeNet (referenced),vAuto,vAuto (referenced),Dealer Specialties,Dealer Specialties (referenced),Fusion Zone,Fusion Zone (referenced),CarGurus,CarGurus (referenced),Universal Analytics,Universal Analytics (referenced),any_tracking (referenced),any_chat (referenced),any_digital_retail (referenced),any_consent (referenced),any_accessibility (referenced),consent_tool,meta_pixel_no_consent_tool,meta_pixel_with_consent_tool,any_ad_pixel,median_third_party_hosts,mean_third_party_hosts,hosts_20_plus,hsts
+rendered_sample,all,All rendered sites,1714,94.7,45.1,42.6,43.3,21.8,1.5,10.2,2.8,2.4,7.6,88.7,89.7,36.4,63.3,34.8,54.6,3.2,5.0,5.1,8.6,2.5,3.6,8.0,11.2,44.6,45.2,0.1,0.2,0.2,0.6,0.7,1.1,6.3,9.9,0.4,0.7,17.8,39.6,34.7,58.2,7.9,9.7,24.6,25.8,0.5,0.5,8.8,8.8,2.6,2.6,6.2,6.2,5.3,5.3,4.6,4.6,3.4,3.4,13.8,15.1,5.8,16.4,9.9,55.7,8.8,54.7,3.2,6.9,9.2,9.5,3.2,4.4,1.2,1.3,0.1,0.5,0.0,0.0,0.4,0.5,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.4,0.4,0.1,0.2,0.2,0.2,1.0,1.0,2.4,13.5,0.0,0.0,0.6,1.1,3.7,6.1,1.0,46.4,0.7,0.9,0.0,1.1,0.0,0.0,0.1,0.1,0.0,0.1,13.8,17.1,16.2,19.0,0.5,3.2,1.5,26.1,0.0,14.2,13.8,56.9,0.1,0.9,0.4,0.4,0.0,0.0,34.8,34.8,8.2,8.7,0.4,4.8,0.0,3.1,0.1,0.1,0.2,0.2,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.2,0.4,3.3,51.7,15.4,19.6,3.0,4.1,0.1,0.3,0.0,0.0,0.1,0.1,0.0,0.0,0.3,19.9,1.0,1.5,0.0,0.7,0.0,0.1,0.1,11.9,5.7,12.5,0.2,0.9,0.1,0.1,4.4,5.6,0.0,0.0,0.0,0.2,0.1,0.1,0.0,1.8,0.0,0.0,0.0,0.2,2.8,6.9,0.0,0.1,0.0,0.3,1.9,6.2,0.1,8.1,0.0,50.8,0.0,0.2,0.4,0.4,5.5,6.5,1.6,2.9,0.5,0.5,0.0,0.9,0.0,0.1,0.1,11.3,0.0,3.9,0.0,0.0,0.0,0.3,5.2,16.0,13.7,13.7,96.1,82.0,84.1,47.4,73.5,43.3,30.2,4.6,58.8,16,17.5,37.9,93.7
+rendered_sample,platform,Dealer.com,886,98.3,42.9,45.5,37.6,7.7,1.8,16.7,1.0,3.7,6.5,97.6,98.6,21.6,48.4,41.5,61.1,2.9,4.7,4.1,5.5,2.9,4.6,11.9,14.8,34.4,34.9,0.1,0.2,0.0,0.3,1.0,1.5,8.6,11.9,0.5,0.8,5.6,45.3,51.1,60.7,9.0,9.7,26.4,27.4,0.6,0.6,5.0,5.0,2.0,2.0,6.8,6.8,8.8,8.8,0.9,0.9,4.9,4.9,13.3,13.3,3.6,21.2,12.3,98.1,5.0,88.9,1.0,1.0,10.2,10.4,4.5,5.1,1.2,1.2,0.0,0.2,0.0,0.0,0.5,0.5,0.0,0.0,0.0,0.0,0.0,0.1,0.0,0.0,0.0,0.0,0.0,0.0,0.1,0.2,0.2,0.2,0.3,0.3,1.6,6.8,0.0,0.0,0.1,0.1,4.1,4.7,1.6,88.7,0.3,0.5,0.0,1.8,0.0,0.0,0.2,0.2,0.0,0.2,20.2,21.2,14.4,17.2,0.3,2.3,1.0,19.2,0.0,26.6,15.1,90.5,0.0,0.1,0.0,0.0,0.0,0.0,33.2,33.2,4.2,4.4,0.6,2.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.4,98.6,0.1,1.1,1.1,3.0,0.0,0.0,0.0,0.0,0.1,0.1,0.0,0.0,0.1,14.3,1.5,1.7,0.0,1.4,0.0,0.0,0.1,4.9,10.8,16.5,0.3,0.8,0.1,0.2,5.6,6.8,0.0,0.0,0.0,0.2,0.1,0.1,0.0,3.5,0.0,0.0,0.0,0.2,1.0,4.7,0.0,0.1,0.0,0.5,3.7,4.2,0.0,2.0,0.0,97.2,0.0,0.5,0.0,0.0,5.8,6.3,0.7,0.7,0.1,0.1,0.0,0.0,0.0,0.0,0.1,21.7,0.0,7.1,0.0,0.0,0.0,0.5,7.9,11.5,13.8,13.8,98.9,99.0,95.4,40.0,99.5,37.6,38.0,3.5,53.7,11,13.0,18.8,97.2
+rendered_sample,platform,DealerOn,664,92.3,49.4,42.2,49.4,33.6,1.1,3.3,4.8,0.9,6.8,79.1,80.0,50.5,78.9,28.3,49.1,3.3,5.1,5.7,12.3,2.1,2.7,3.9,7.4,55.9,56.3,0.0,0.0,0.3,0.6,0.5,0.6,3.6,7.4,0.3,0.5,35.1,38.1,16.6,55.7,6.0,9.0,25.2,26.8,0.5,0.5,15.2,15.2,3.9,3.9,5.7,5.7,1.5,1.5,10.4,10.4,2.0,2.0,15.7,18.7,8.9,12.0,6.8,9.2,15.2,20.0,5.1,13.4,8.3,8.6,2.1,3.9,0.6,0.8,0.2,1.1,0.0,0.0,0.3,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.9,1.1,0.2,0.2,0.2,0.2,0.3,0.3,3.2,21.7,0.0,0.0,1.4,2.4,3.9,7.7,0.3,1.1,1.4,1.5,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,7.7,14.2,20.2,23.0,0.6,4.5,2.4,33.7,0.0,0.3,12.0,21.2,0.2,2.0,0.6,0.6,0.0,0.0,36.7,36.7,12.7,13.4,0.2,7.8,0.0,6.9,0.2,0.2,0.5,0.6,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.5,0.0,1.7,31.2,38.1,2.4,2.4,0.0,0.5,0.0,0.0,0.0,0.0,0.0,0.0,0.6,30.1,0.3,1.2,0.0,0.0,0.0,0.0,0.0,20.9,0.0,7.5,0.0,1.2,0.0,0.0,3.3,4.4,0.0,0.0,0.0,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.8,9.6,0.0,0.0,0.0,0.0,0.0,9.8,0.3,14.3,0.0,1.2,0.0,0.0,0.6,0.6,4.2,5.7,2.6,5.4,0.0,0.0,0.0,1.8,0.0,0.0,0.0,0.2,0.0,0.2,0.0,0.0,0.0,0.2,2.7,23.2,13.4,13.4,94.3,65.8,72.9,55.7,41.6,49.4,23.3,5.0,65.4,22,23.3,62.7,95.2
+rendered_sample,platform,Sincro,84,88.1,46.4,33.3,52.4,66.7,2.4,6.0,4.8,2.4,11.9,84.5,84.5,58.3,84.5,16.7,33.3,2.4,3.6,6.0,10.7,0.0,0.0,1.2,3.6,58.3,58.3,0.0,0.0,1.2,2.4,0.0,0.0,0.0,2.4,0.0,0.0,20.2,22.6,21.4,86.9,6.0,10.7,11.9,14.3,0.0,0.0,3.6,3.6,1.2,1.2,2.4,2.4,0.0,0.0,1.2,1.2,0.0,0.0,15.5,16.7,7.1,9.5,15.5,23.8,3.6,11.9,7.1,16.7,7.1,8.3,0.0,3.6,3.6,3.6,0.0,0.0,0.0,0.0,0.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.6,4.8,0.0,0.0,0.0,1.2,1.2,2.4,0.0,1.2,0.0,1.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,6.0,11.9,10.7,13.1,0.0,3.6,0.0,38.1,0.0,2.4,16.7,25.0,0.0,2.4,2.4,2.4,0.0,0.0,41.7,41.7,10.7,10.7,0.0,7.1,0.0,7.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.2,65.5,85.7,0.0,0.0,2.4,2.4,0.0,0.0,1.2,1.2,0.0,0.0,0.0,9.5,2.4,2.4,0.0,0.0,0.0,0.0,0.0,26.2,1.2,3.6,0.0,0.0,0.0,0.0,4.8,6.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4.8,4.8,0.0,0.0,0.0,0.0,0.0,4.8,0.0,26.2,0.0,1.2,0.0,0.0,2.4,2.4,8.3,9.5,3.6,6.0,0.0,0.0,0.0,2.4,0.0,0.0,0.0,1.2,0.0,1.2,0.0,0.0,0.0,0.0,0.0,17.9,9.5,9.5,94.0,67.9,70.2,56.0,86.9,52.4,14.3,2.4,60.7,22,22.4,56.0,92.9
+rendered_sample,brand,Chevrolet,353,89.5,46.5,43.1,39.1,34.0,0.6,8.8,4.2,3.1,7.4,87.5,87.5,40.5,69.7,26.9,41.6,2.3,3.1,5.1,7.9,1.7,2.0,6.2,8.5,47.3,47.3,0.0,0.0,0.6,1.4,0.6,0.8,2.5,5.1,0.0,0.0,21.2,56.7,49.3,84.1,6.8,8.2,20.4,21.2,0.3,0.3,5.1,5.1,1.4,1.4,5.4,5.4,3.7,3.7,0.8,0.8,1.1,1.1,9.9,11.3,4.8,8.8,21.2,49.6,5.1,41.4,5.9,11.6,9.3,9.6,1.4,2.5,1.1,1.1,0.0,0.0,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.4,2.3,0.0,0.0,0.0,0.6,3.4,4.0,0.6,34.8,0.0,0.0,0.0,1.1,0.0,0.0,0.0,0.0,0.0,0.3,13.6,17.8,14.2,16.4,0.6,2.5,2.0,32.0,0.0,8.8,14.4,49.3,0.0,0.6,1.1,1.1,0.0,0.0,31.4,31.4,7.9,8.5,0.3,8.2,0.0,6.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.0,37.7,31.4,39.7,0.3,0.8,0.6,0.6,0.0,0.0,0.3,0.3,0.0,0.0,0.0,18.7,0.6,1.1,0.0,0.6,0.0,0.0,0.0,20.7,4.5,10.5,0.0,0.3,0.0,0.0,4.2,4.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,0.0,0.0,0.0,0.0,4.2,5.9,0.0,0.0,0.0,0.0,2.0,7.1,0.0,7.9,0.0,37.1,0.0,0.0,1.1,1.1,5.7,6.2,1.4,2.3,0.3,0.3,0.0,0.3,0.0,0.0,0.0,35.7,0.0,4.2,0.0,0.0,0.0,0.0,3.7,14.4,6.5,6.5,92.4,74.5,77.3,44.5,75.9,39.1,24.9,2.0,56.9,17,18.7,42.8,94.3
+rendered_sample,brand,Ford,294,98.6,30.6,29.3,38.8,10.5,2.0,4.4,1.4,0.7,3.7,83.0,83.0,20.7,44.2,27.9,41.2,3.4,4.1,2.4,3.7,0.7,1.0,4.4,5.1,24.1,24.5,0.0,0.0,0.0,0.0,0.7,0.7,1.0,2.0,0.3,0.3,44.6,44.6,0.0,0.0,7.1,9.5,7.8,8.5,0.3,0.3,4.8,4.8,3.7,3.7,3.4,3.4,1.4,1.4,0.3,0.3,2.4,2.4,13.9,14.3,3.1,6.8,2.7,55.8,4.8,50.3,1.7,3.1,9.5,9.9,0.3,1.7,0.3,0.3,0.0,0.3,0.0,0.0,0.7,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0,0.0,0.0,0.0,0.0,0.0,0.7,35.0,0.0,0.0,0.0,0.3,5.1,9.2,1.0,45.6,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,9.2,13.3,11.6,13.6,0.0,1.7,1.4,25.9,0.0,22.8,8.5,54.8,0.3,3.4,0.0,0.0,0.0,0.0,31.6,31.6,6.1,6.5,0.3,1.7,0.0,0.0,0.0,0.0,1.0,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.7,57.5,6.1,7.8,1.4,2.0,0.0,0.0,0.0,0.0,0.3,0.3,0.0,0.0,0.3,17.3,1.7,2.0,0.0,0.7,0.0,0.0,0.0,5.8,3.7,8.5,0.0,0.3,0.0,0.0,0.7,1.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.4,0.0,0.0,0.0,0.0,1.4,6.1,0.0,0.3,0.0,0.0,0.3,4.4,0.3,9.2,0.0,55.4,0.0,0.3,0.0,0.0,2.7,4.4,1.0,1.7,0.0,0.0,0.0,0.3,0.0,0.0,0.0,0.0,0.0,3.1,0.0,0.0,0.0,0.0,3.1,13.6,4.1,4.1,98.6,77.2,91.2,41.2,66.7,38.8,25.2,2.7,42.2,10,15.8,31.3,98.6
+rendered_sample,brand,Jeep,273,98.2,51.6,43.2,38.5,8.4,0.0,22.7,1.5,4.0,5.1,96.0,97.4,38.1,62.6,53.1,75.5,2.6,5.1,5.5,7.0,6.2,8.8,8.8,11.7,48.4,49.1,0.4,0.7,0.0,0.4,0.4,0.7,17.9,22.0,1.1,1.8,8.8,62.3,52.7,73.3,9.2,9.9,73.6,75.5,0.7,0.7,25.3,25.3,3.3,3.3,6.2,6.2,16.5,16.5,23.1,23.1,5.5,5.5,15.4,16.8,4.4,16.1,3.7,64.5,25.3,84.2,1.5,2.9,9.2,9.2,3.3,3.7,0.0,0.0,0.0,0.7,0.0,0.0,0.7,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.7,0.0,0.4,0.0,0.0,0.0,0.0,1.8,4.0,0.0,0.0,0.0,0.7,2.9,5.5,1.1,59.3,0.4,0.4,0.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,18.7,22.0,13.2,16.1,0.7,3.7,1.1,16.8,0.0,18.7,13.2,66.3,0.0,0.4,0.4,0.4,0.0,0.0,30.4,30.4,7.3,7.7,0.7,3.3,0.0,1.8,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.7,65.2,3.7,5.5,1.5,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.7,0.0,0.7,0.0,0.0,0.0,0.4,0.0,6.6,5.9,8.8,0.0,0.0,0.0,0.0,17.6,22.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,1.5,0.0,0.0,0.0,0.0,1.5,4.4,0.0,0.0,0.0,0.7,3.7,7.7,0.0,5.1,0.0,64.1,0.0,0.4,0.4,0.4,4.4,5.1,0.7,0.7,0.0,0.0,0.0,0.4,0.0,0.0,0.4,0.4,0.0,5.5,0.0,0.0,0.0,0.0,6.2,15.8,17.2,17.2,98.9,93.0,84.2,41.4,71.8,38.5,48.0,5.1,68.9,17,18.2,41.8,93.4
+rendered_sample,brand,Chrysler,272,98.5,51.5,42.6,38.2,8.5,0.0,22.8,1.5,4.0,5.1,96.3,97.8,38.2,63.6,53.7,76.1,2.6,5.1,5.5,7.0,6.6,9.2,9.2,12.1,49.3,50.0,0.4,0.7,0.0,0.4,0.4,0.7,18.4,22.4,1.1,1.8,8.8,61.8,52.2,72.8,9.2,9.9,73.2,75.0,0.7,0.7,25.4,25.4,3.3,3.3,6.2,6.2,16.5,16.5,23.2,23.2,5.5,5.5,14.7,16.2,4.4,16.2,4.0,64.3,25.4,83.8,1.5,2.9,9.2,9.2,3.3,3.7,0.0,0.0,0.0,0.7,0.0,0.0,0.7,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.7,0.7,0.0,0.4,0.0,0.0,0.0,0.0,1.8,4.0,0.0,0.0,0.0,0.7,2.6,5.1,1.1,58.8,0.4,0.4,0.0,1.8,0.0,0.0,0.0,0.0,0.0,0.0,18.4,21.7,12.9,15.8,0.7,3.7,1.1,16.5,0.0,18.8,12.9,65.8,0.0,0.4,0.4,0.4,0.0,0.0,30.1,30.1,7.4,7.7,0.7,3.3,0.0,1.8,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.7,65.1,3.7,5.5,1.5,2.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,14.7,0.0,0.7,0.0,0.0,0.0,0.4,0.0,6.6,5.9,8.8,0.0,0.0,0.0,0.0,17.6,22.1,0.0,0.0,0.0,0.4,0.0,0.0,0.0,1.5,0.0,0.0,0.0,0.0,1.5,4.0,0.0,0.0,0.0,0.7,3.7,7.7,0.0,5.1,0.0,64.0,0.0,0.4,0.4,0.4,4.4,5.1,0.7,0.7,0.0,0.0,0.0,0.4,0.0,0.0,0.4,0.4,0.0,5.5,0.0,0.0,0.0,0.0,6.2,16.2,16.9,16.9,99.3,93.0,84.6,41.2,71.7,38.2,48.5,5.1,69.9,17,18.3,41.9,93.8
+rendered_sample,brand,Dodge,265,98.5,50.9,43.4,38.5,7.5,0.0,23.0,1.5,4.2,4.9,96.2,97.4,37.0,63.4,53.2,76.6,2.6,5.3,5.3,7.2,6.8,9.4,9.1,12.1,48.7,49.4,0.4,0.8,0.0,0.0,0.4,0.8,17.7,22.3,1.1,1.9,8.7,61.9,52.8,73.2,9.4,10.2,74.3,76.2,0.8,0.8,25.7,25.7,3.4,3.4,6.4,6.4,16.6,16.6,23.4,23.4,6.0,6.0,14.0,15.8,4.9,17.4,3.0,64.2,25.7,84.5,1.5,2.6,9.8,9.8,2.6,3.0,0.0,0.0,0.0,0.8,0.0,0.0,0.8,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.8,0.0,0.4,0.0,0.0,0.0,0.0,1.5,3.8,0.0,0.0,0.0,0.8,2.6,4.9,1.1,59.2,0.4,0.4,0.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,18.1,21.5,13.6,16.6,0.8,3.8,1.1,17.0,0.0,18.1,13.2,66.4,0.0,0.4,0.4,0.4,0.0,0.0,30.9,30.9,7.2,7.5,0.4,2.6,0.0,1.9,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.0,65.3,3.4,5.3,1.5,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.1,0.0,0.8,0.0,0.0,0.0,0.4,0.0,6.8,6.0,8.7,0.0,0.0,0.0,0.0,17.7,21.9,0.0,0.0,0.0,0.4,0.0,0.0,0.0,1.5,0.0,0.0,0.0,0.0,1.5,4.2,0.0,0.0,0.0,0.8,3.8,7.9,0.0,5.7,0.0,64.2,0.0,0.4,0.4,0.4,4.5,5.3,0.4,0.4,0.0,0.0,0.0,0.4,0.0,0.0,0.4,0.4,0.0,5.7,0.0,0.0,0.0,0.0,6.0,15.5,15.8,15.8,99.2,94.0,84.2,41.1,71.7,38.5,48.7,4.5,69.4,17,18.2,41.5,93.6
+rendered_sample,brand,Ram,258,98.4,51.6,44.2,38.4,7.4,0.0,23.6,1.6,4.3,4.7,97.3,98.4,37.2,64.0,53.5,77.1,2.7,5.4,5.4,7.4,7.0,9.7,9.3,12.4,48.8,49.6,0.4,0.8,0.0,0.0,0.4,0.8,18.2,22.9,1.2,1.9,8.9,63.6,54.3,75.2,8.9,9.7,76.4,78.3,0.8,0.8,26.4,26.4,3.5,3.5,6.2,6.2,16.7,16.7,24.0,24.0,6.2,6.2,14.0,15.5,4.7,17.4,3.1,64.3,26.4,85.3,1.6,2.7,10.1,10.1,2.7,3.1,0.0,0.0,0.0,0.8,0.0,0.0,0.8,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,0.8,0.0,0.4,0.0,0.0,0.0,0.0,1.6,3.5,0.0,0.0,0.0,0.8,2.7,5.0,1.2,59.3,0.4,0.4,0.0,1.9,0.0,0.0,0.0,0.0,0.0,0.0,18.2,21.7,13.6,16.7,0.8,3.9,1.2,17.1,0.0,18.2,13.6,66.7,0.0,0.4,0.4,0.4,0.0,0.0,30.6,30.6,7.4,7.8,0.4,2.7,0.0,1.9,0.0,0.0,0.0,0.0,0.0,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.7,65.5,3.5,5.4,1.6,2.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,15.5,0.0,0.8,0.0,0.0,0.0,0.4,0.0,7.0,6.2,8.9,0.0,0.0,0.0,0.0,18.2,22.5,0.0,0.0,0.0,0.4,0.0,0.0,0.0,1.6,0.0,0.0,0.0,0.0,1.6,4.3,0.0,0.0,0.0,0.8,3.9,8.1,0.0,5.8,0.0,64.3,0.0,0.4,0.4,0.4,4.3,5.0,0.4,0.4,0.0,0.0,0.0,0.4,0.0,0.0,0.4,0.4,0.0,5.8,0.0,0.0,0.0,0.0,6.2,15.9,15.9,15.9,99.2,94.6,84.5,40.7,72.1,38.4,48.8,4.7,69.8,18,18.4,42.2,94.2
+rendered_sample,brand,GMC,134,97.0,47.8,32.8,44.8,29.1,1.5,9.7,5.2,2.2,6.0,93.3,93.3,39.6,70.9,22.4,41.0,4.5,6.7,6.0,9.7,1.5,2.2,5.2,8.2,47.8,47.8,0.0,0.0,0.7,0.7,0.7,1.5,3.0,5.2,1.5,1.5,17.2,47.8,38.8,66.4,7.5,8.2,6.7,9.7,0.7,0.7,6.7,6.7,3.0,3.0,2.2,2.2,1.5,1.5,1.5,1.5,2.2,2.2,17.9,19.4,6.0,9.7,12.7,50.7,6.7,45.5,5.2,11.2,10.4,10.4,2.2,5.2,0.7,0.7,0.0,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.5,4.5,0.0,0.0,0.0,0.0,0.7,2.2,0.7,40.3,0.0,0.0,0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,13.4,17.2,11.9,12.7,1.5,4.5,1.5,19.4,0.0,10.4,11.9,47.8,0.0,1.5,0.7,0.7,0.0,0.0,37.3,37.3,7.5,7.5,0.0,6.0,0.0,5.2,0.0,0.0,0.0,0.0,0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.2,41.0,25.4,28.4,1.5,4.5,0.0,0.7,0.0,0.0,0.0,0.0,0.0,0.0,1.5,18.7,0.0,0.7,0.0,0.0,0.0,0.7,0.0,16.4,6.7,9.0,0.0,0.0,0.0,0.0,3.0,3.7,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.5,5.2,9.0,0.0,0.7,0.0,0.7,1.5,4.5,0.0,11.9,0.0,41.0,0.0,0.0,0.7,0.7,6.0,6.0,0.0,0.0,0.0,0.0,0.0,4.5,0.0,0.0,0.0,30.6,0.0,0.7,0.0,0.0,0.0,0.0,3.0,14.9,8.2,8.2,97.0,80.6,68.7,50.7,71.6,44.8,19.4,3.0,56.0,17,16.9,39.6,93.3
+rendered_sample,brand,Buick,121,95.9,49.6,34.7,42.1,29.8,1.7,9.9,3.3,2.5,5.8,92.6,92.6,36.4,68.6,24.0,40.5,5.0,7.4,5.0,8.3,1.7,1.7,6.6,8.3,46.3,46.3,0.0,0.0,0.8,0.8,0.8,0.8,2.5,4.1,1.7,1.7,17.4,51.2,41.3,71.1,8.3,9.1,6.6,9.1,0.8,0.8,6.6,6.6,3.3,3.3,1.7,1.7,1.7,1.7,0.8,0.8,2.5,2.5,17.4,19.0,5.8,9.1,14.9,54.5,6.6,46.3,5.0,11.6,12.4,12.4,1.7,4.1,0.8,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.7,4.1,0.0,0.0,0.0,0.0,0.8,4.1,0.8,42.1,0.0,0.0,0.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,14.0,17.4,13.2,14.0,0.8,4.1,1.7,20.7,0.0,9.9,12.4,48.8,0.0,1.7,0.8,0.8,0.0,0.0,36.4,36.4,5.8,5.8,0.0,5.8,0.0,5.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.5,43.8,25.6,28.9,1.7,4.1,0.0,0.8,0.0,0.0,0.0,0.0,0.0,0.0,1.7,19.0,0.0,0.8,0.0,0.0,0.0,0.8,0.0,19.0,7.4,9.9,0.0,0.0,0.0,0.0,2.5,3.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.8,3.3,7.4,0.0,0.0,0.0,0.0,1.7,5.0,0.0,12.4,0.0,43.8,0.0,0.0,0.8,0.8,5.8,5.8,0.0,0.8,0.0,0.0,0.0,2.5,0.0,0.0,0.0,33.9,0.0,0.8,0.0,0.0,0.0,0.0,2.5,14.0,8.3,8.3,95.9,81.0,71.1,46.3,74.4,42.1,22.3,1.7,55.4,16,16.6,38.0,91.7
+rendered_sample,brand,Honda,93,92.5,53.8,50.5,45.2,28.0,6.5,6.5,3.2,2.2,9.7,89.2,92.5,44.1,71.0,36.6,57.0,4.3,4.3,8.6,12.9,6.5,8.6,14.0,18.3,49.5,51.6,0.0,0.0,1.1,1.1,2.2,2.2,7.5,11.8,0.0,1.1,0.0,0.0,0.0,24.7,11.8,17.2,14.0,14.0,0.0,0.0,3.2,3.2,1.1,1.1,9.7,9.7,4.3,4.3,2.2,2.2,1.1,1.1,11.8,11.8,9.7,15.1,11.8,50.5,3.2,49.5,2.2,6.5,9.7,10.8,5.4,6.5,7.5,7.5,0.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,0.0,0.0,0.0,0.0,1.1,1.1,0.0,0.0,0.0,0.0,4.3,4.3,5.4,17.2,0.0,0.0,2.2,2.2,3.2,7.5,1.1,43.0,0.0,0.0,0.0,1.1,0.0,0.0,0.0,0.0,0.0,1.1,12.9,15.1,20.4,23.7,0.0,0.0,0.0,21.5,0.0,7.5,19.4,64.5,0.0,0.0,0.0,0.0,0.0,0.0,36.6,37.6,6.5,7.5,1.1,7.5,0.0,1.1,1.1,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,8.6,49.5,8.6,14.0,10.8,12.9,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,1.1,24.7,5.4,5.4,0.0,1.1,0.0,0.0,0.0,12.9,6.5,24.7,0.0,0.0,0.0,1.1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.2,0.0,0.0,0.0,0.0,3.2,8.6,0.0,0.0,0.0,0.0,2.2,12.9,0.0,4.3,0.0,46.2,0.0,0.0,0.0,0.0,1.1,2.2,3.2,5.4,5.4,5.4,0.0,1.1,0.0,0.0,0.0,1.1,0.0,3.2,0.0,0.0,0.0,0.0,5.4,16.1,18.3,18.3,95.7,79.6,86.0,53.8,71.0,45.2,30.1,6.5,61.3,16,18.1,32.3,86.0

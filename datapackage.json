@@ -1,0 +1,221 @@
+{
+  "name": "us-car-dealership-census",
+  "title": "US car dealership email and website census, 2026",
+  "description": "Aggregate tables from Provena's 2026 studies of US franchise car dealerships: mail gateways, SPF and DMARC authentication, website platforms and third-party technology, and an index of email statistics. Aggregate tables only; no domain list or personal data.",
+  "homepage": "https://www.provena-ai.com/research",
+  "version": "2026.09",
+  "licenses": [
+    {
+      "name": "CC-BY-4.0",
+      "path": "https://creativecommons.org/licenses/by/4.0/",
+      "title": "Creative Commons Attribution 4.0"
+    }
+  ],
+  "contributors": [
+    {
+      "title": "Provena",
+      "path": "https://www.provena-ai.com/",
+      "role": "author"
+    }
+  ],
+  "keywords": [
+    "car dealerships",
+    "automotive",
+    "email deliverability",
+    "DMARC",
+    "SPF",
+    "MX records",
+    "dealer websites",
+    "census"
+  ],
+  "resources": [
+    {
+      "name": "dealership-email-gateway-census",
+      "path": "data/dealership-email-gateway-census.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "title": "US franchise dealership mail gateway census, September 2026",
+      "description": "MX classification of 17,659 US franchise car dealership website domains collected from manufacturer dealer locators, with each domain's franchise brands and state. Reports the share of domains with no mail record and the distribution of receiving providers (Microsoft 365, Google Workspace, GoDaddy, Mimecast, Barracuda, Proofpoint and other gateways) overall, by brand and by state. Aggregate tables only; the domain list is not published.",
+      "sources": [
+        {
+          "title": "Dealership Email Gateway Census: 17,659 Franchise Domains",
+          "path": "https://www.provena-ai.com/blog/dealership-email-gateway-census"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "table",
+            "type": "string"
+          },
+          {
+            "name": "category",
+            "type": "string"
+          },
+          {
+            "name": "domains",
+            "type": "string"
+          },
+          {
+            "name": "share_pct",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "car-dealership-cold-email-statistics",
+      "path": "data/car-dealership-cold-email-statistics.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "title": "Car dealership email statistics index, 2026",
+      "description": "A curated index of 30 first-party statistics about email and US franchise car dealerships, drawn from the June 2026 outcome benchmark (43,302 sends), the September 2026 gateway census (17,659 domains) and the September 2026 authentication census (8,032 domains). Each figure records its unit (domains or contacts), source study and limits. Intended for citation.",
+      "sources": [
+        {
+          "title": "Car Dealership Cold Email Statistics 2026: 30 Numbers",
+          "path": "https://www.provena-ai.com/blog/car-dealership-cold-email-statistics"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "number",
+            "type": "integer"
+          },
+          {
+            "name": "section",
+            "type": "string"
+          },
+          {
+            "name": "statistic",
+            "type": "string"
+          },
+          {
+            "name": "unit",
+            "type": "string"
+          },
+          {
+            "name": "source_study",
+            "type": "string"
+          },
+          {
+            "name": "source_url",
+            "type": "string"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dealership-email-authentication-census",
+      "path": "data/dealership-email-authentication-census.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "title": "US franchise dealership email authentication census, September 2026",
+      "description": "SPF and DMARC records resolved for 17,636 US franchise car dealership website domains from manufacturer dealer locators, reported for the 8,032 domains that receive mail: SPF presence and all-mechanism, DMARC presence, policy (none, quarantine, reject) and reporting address, split by receiving mail provider, franchise brand and state. Aggregate tables only; the domain list is not published.",
+      "sources": [
+        {
+          "title": "Dealership Email Authentication Census: 8,032 Domains",
+          "path": "https://www.provena-ai.com/blog/dealership-email-authentication-census"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "cohort_type",
+            "type": "string"
+          },
+          {
+            "name": "cohort",
+            "type": "string"
+          },
+          {
+            "name": "domains",
+            "type": "integer"
+          },
+          {
+            "name": "spf_pct",
+            "type": "number"
+          },
+          {
+            "name": "spf_hardfail_pct",
+            "type": "number"
+          },
+          {
+            "name": "dmarc_pct",
+            "type": "number"
+          },
+          {
+            "name": "dmarc_p_none_pct",
+            "type": "number"
+          },
+          {
+            "name": "dmarc_enforced_pct",
+            "type": "number"
+          },
+          {
+            "name": "dmarc_reject_pct",
+            "type": "number"
+          },
+          {
+            "name": "spf_without_dmarc_pct",
+            "type": "number"
+          },
+          {
+            "name": "dmarc_rua_pct",
+            "type": "number"
+          }
+        ]
+      }
+    },
+    {
+      "name": "dealership-website-technology-census",
+      "path": "data/dealership-website-technology-census.csv",
+      "format": "csv",
+      "mediatype": "text/csv",
+      "encoding": "utf-8",
+      "title": "US franchise dealership website technology census, September 2026",
+      "description": "Website platform attribution for 16,948 live US franchise car dealership sites from manufacturer dealer locators (www CNAME chain and page fingerprints), split by franchise brand and state, plus a seeded random sample of 3,000 sites rendered in headless Chrome (1,714 readable, 40% gated against automated browsers) measuring tag managers, analytics and advertising pixels, consent tools, chat widgets, digital retailing tools and accessibility overlays, by platform. Aggregate tables only; the domain list is not published.",
+      "sources": [
+        {
+          "title": "Dealership Website Technology Census: 16,948 Dealer Sites",
+          "path": "https://www.provena-ai.com/blog/dealership-website-technology-census"
+        }
+      ],
+      "schema": {
+        "fields": [
+          {
+            "name": "table",
+            "type": "string"
+          },
+          {
+            "name": "cohort_type",
+            "type": "string"
+          },
+          {
+            "name": "cohort",
+            "type": "string"
+          },
+          {
+            "name": "sites",
+            "type": "string"
+          },
+          {
+            "name": "platform",
+            "type": "string"
+          },
+          {
+            "name": "platform_sites",
+            "type": "string"
+          },
+          {
+            "name": "platform_share_pct",
+            "type": "string"
+          }
+        ]
+      }
+    }
+  ]
+}
