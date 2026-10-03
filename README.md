@@ -80,4 +80,5 @@ GitHub's "Cite this repository" button gives the same citation for the collectio
 ## More
 
 - All Provena research: https://www.provena-ai.com/research
+- Related open dataset, which B2B articles Microsoft Copilot cites: https://github.com/danielmcgrattan2007/b2b-ai-search-citation-study
 - Questions or corrections: https://www.provena-ai.com/contact
