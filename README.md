@@ -77,6 +77,14 @@ GitHub's "Cite this repository" button gives the same citation for the collectio
 
 [Creative Commons Attribution 4.0](https://creativecommons.org/licenses/by/4.0/). Attribute to Provena and link to the study page or to https://www.provena-ai.com/research.
 
+## Selling software to dealerships?
+
+These tables come out of Provena's own outreach to dealers. If you sell software into dealerships, these guides use the same data to plan how you reach them:
+
+- How automotive SaaS companies generate dealer meetings: https://www.provena-ai.com/blog/automotive-saas-lead-generation
+- Outreach to dealerships, step by step: https://www.provena-ai.com/blog/dealership-outbound-playbook
+- Hiring an outsourced SDR for a niche market, and what to test first: https://www.provena-ai.com/blog/outsourced-sdr-for-vertical-saas
+
 ## More
 
 - All Provena research: https://www.provena-ai.com/research
