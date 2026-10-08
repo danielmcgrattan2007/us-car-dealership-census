@@ -89,4 +89,5 @@ These tables come out of Provena's own outreach to dealers. If you sell software
 
 - All Provena research: https://www.provena-ai.com/research
 - Related open dataset, which B2B articles Microsoft Copilot cites: https://github.com/danielmcgrattan2007/b2b-ai-search-citation-study
+- Related open dataset, the same mail census method on 7,537 US bank and credit union domains: https://github.com/danielmcgrattan2007/us-bank-credit-union-email-census
 - Questions or corrections: https://www.provena-ai.com/contact
